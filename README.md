@@ -1,2 +1,8 @@
 # hello-world
-Hello World, my first repository
+
+Hello All, 
+
+I am really excited to be in SAS class. 
+
+-Yasin
+
